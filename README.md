@@ -15,7 +15,8 @@
 
 #### Components
 * [Material-UI](https://material-ui.com/getting-started/installation/)
-* [Ant Design](https://ant.design/docs/react/introduce) 
+* [Ant Design](https://ant.design/docs/react/introduce)
+* [React Select](https://react-select.com/home#getting-started)
 
 #### Styles
 * [styled-components](https://styled-components.com/docs)
