@@ -6,8 +6,8 @@
 #### Last Update: 8.03.21
 
 # Table of contents
-* [React](#React)
-
+- [React](#React)
+- [Development Sites](#Development Sites)
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
