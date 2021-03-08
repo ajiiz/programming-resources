@@ -30,5 +30,5 @@
 
 #### Project Ideas and tutorials
 * [Tutorial_1](url)
-
+<hr>
 ## Development Sites
