@@ -10,8 +10,8 @@
 
 ## React
 #### Documentation
-* [reactjs.org](https://reactjs.org/docs/getting-started.html)
+* [ReactJS.org](https://reactjs.org/docs/getting-started.html)
 * [create-react-app.dev](https://create-react-app.dev/docs/getting-started)
 
-#### Tets
-* [jestjs.io](https://jestjs.io/docs/en/getting-started.html)
+#### Tests
+* [JestJS.io](https://jestjs.io/docs/en/getting-started.html)
