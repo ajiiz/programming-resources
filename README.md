@@ -6,9 +6,9 @@
 #### Last Update: 8.03.21
 
 ## Table of contents
-* [Technologies](#technologies)
+* [React](#React)
 
-## Content-name
-#### Content-details
+## React
+#### Documentation
 * [name](url)
-* [name](url)
+* [create-react-app](https://create-react-app.dev/docs/getting-started)
