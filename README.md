@@ -2,10 +2,10 @@
 
 **List of usefull programming resources**
 
-## Status
+# Status
 #### Last Update: 8.03.21
 
-## Table of contents
+# Table of contents
 * [React](#React)
 
 ## React
