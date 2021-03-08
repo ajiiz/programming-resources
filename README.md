@@ -30,5 +30,6 @@
 
 #### Project Ideas and tutorials
 * [Tutorial_1](url)
-<hr>
+
 ## Development Sites
+* [netlify](https://www.netlify.com/)
