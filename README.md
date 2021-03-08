@@ -7,7 +7,8 @@
 
 # Table of contents
 - [React](#React)
-- [Development Sites](#Development Sites)
+- [Development](#Development)
+
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
@@ -31,6 +32,6 @@
 #### Project Ideas and tutorials
 * [Tutorial_1](url)
 
-## Development Sites
+## Development
 * [Netlify](https://www.netlify.com/)
 * [Heroku](https://www.heroku.com)
