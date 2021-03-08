@@ -27,3 +27,8 @@
 
 #### Tests
 * [JestJS](https://jestjs.io/docs/en/getting-started.html)
+
+#### Project Ideas and tutorials
+* [Tutorial_1](url)
+
+## Development Sites
