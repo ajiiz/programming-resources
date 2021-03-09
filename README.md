@@ -12,9 +12,10 @@
 - [Animation](#Animation)
 - [React](#React)
 - [Node](#Node)
-- [Databases](#Databases)
 - [Java](#Java)
 - [Python](#Python)
+- [Databases](#Databases)
+- [Mobile](#Mobile)
 - [Git](#Git)
 - [Development](#Development)
 - [Tutorials](#Tutorials)
@@ -78,6 +79,7 @@
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/)
+* [Firebase](https://firebase.google.com/)
 * [mySQL](https://www.mysql.com/)
 * [PostgreSQL](https://www.postgresql.org/)
 
@@ -89,6 +91,26 @@
 * [Spring](https://spring.io/)
 * [Hibernate](https://hibernate.org/)
 * [Struts](https://struts.apache.org/)
+
+## Python
+#### Documentation
+* [Python](https://www.python.org/)
+
+#### Frameworks
+* [Django](https://docs.djangoproject.com/en/3.1/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Pyramid](https://trypyramid.com/)
+* [CherryPy](https://cherrypy.org/)
+
+## Mobile
+* [React Native](https://reactnative.dev/)
+* [Flutter](https://flutter.dev/)
+
+## Git
+* [Git](https://git-scm.com/doc)
+* [Github](https://docs.github.com/en)
+* [Make a README](https://www.makeareadme.com/)
+* [GitK**wa](https://github.com/jakubnabrdalik/gitkurwa/blob/master/configNSFW_PL)
 
 ## Development
 * [Netlify](https://www.netlify.com/)
