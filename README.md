@@ -6,7 +6,13 @@
 #### Last Update: 8.03.21
 
 # Table of contents
+- [Javascript](#Javascript)
+- [CSS](#CSS)
 - [React](#React)
+- [Java](#Java)
+- [C++](#C++)
+- [Python](#Python)
+- [Git](#Git)
 - [Development](#Development)
 
 ## React
