@@ -81,6 +81,15 @@
 * [mySQL](https://www.mysql.com/)
 * [PostgreSQL](https://www.postgresql.org/)
 
+## Java
+#### Documentation
+* [Oracle-Java](https://docs.oracle.com/javase/7/docs/api/)
+
+#### Frameworks
+* [Spring](https://spring.io/)
+* [Hibernate](https://hibernate.org/)
+* [Struts](https://struts.apache.org/)
+
 ## Development
 * [Netlify](https://www.netlify.com/)
 * [Heroku](https://www.heroku.com)
