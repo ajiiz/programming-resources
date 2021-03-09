@@ -26,6 +26,10 @@
 * [Backend](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/backend.png?year-2021-2)
 * [DevOps](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/devops.png)
 
+## Javascript
+#### Documentation
+* [JavascriptMDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
