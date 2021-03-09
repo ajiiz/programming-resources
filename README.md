@@ -18,6 +18,7 @@
 - [Mobile](#Mobile)
 - [Git](#Git)
 - [Development](#Development)
+- [Design](#Design)
 - [Tutorials](#Tutorials)
 - [Courses](#Courses)
 - [Useful Sites](#Useful-Sites)
@@ -115,3 +116,26 @@
 ## Development
 * [Netlify](https://www.netlify.com/)
 * [Heroku](https://www.heroku.com)
+
+## Design
+* [Awwwwards](https://www.awwwards.com/)
+* [Behance](https://www.behance.net/)
+* [Codepen](https://codepen.io/)
+* [Dribble](https://dribbble.com/)
+* [UIStore](https://www.uistore.design/)
+* [Figma](https://www.figma.com/)
+* [HeroPatterns](https://www.heropatterns.com/)
+* [TablerIcons](https://tablericons.com/)
+* [NoDesign](https://nodesign.dev/)
+
+## Tutorials 
+
+## Courses
+* [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+* [The Net Ninja](https://www.thenetninja.co.uk/)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Useful-Sites
+* [MemDev](https://mem.dev/)
+* 
