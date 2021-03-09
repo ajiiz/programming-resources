@@ -32,7 +32,7 @@
 
 #### Project Tutorials
 * [10 Javascript projects in 1 hour](https://www.youtube.com/watch?v=8GPPJpiLqHk&ab_channel=FlorinPop)
-* 
+* [10 Javascript projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop)
 
 ## React
 #### Documentation
