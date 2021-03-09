@@ -1,6 +1,6 @@
 # Resources
 
-**List of usefull programming resources**
+**List of useful programming resources**
 
 # Status
 #### Last Update: 8.03.21
@@ -17,6 +17,9 @@
 - [Python](#Python)
 - [Git](#Git)
 - [Development](#Development)
+- [Tutorials](#Tutorials)
+- [Courses](#Courses)
+- [Useful Sites](#Useful Sites)
 
 ## RoadMaps
 * [Frontend](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png?year-2021-2)
