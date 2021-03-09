@@ -30,10 +30,6 @@
 #### Documentation
 * [JavascriptMDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-#### Project Tutorials
-* [10 Javascript projects in 1 hour](https://www.youtube.com/watch?v=8GPPJpiLqHk&ab_channel=FlorinPop)
-* [10 Javascript projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop)
-
 ## CSS
 #### Documentation
 * [CSSMDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -71,17 +67,19 @@
 #### Tests
 * [JestJS](https://jestjs.io/docs/en/getting-started.html)
 
-#### Project Tutorials
-* [MERN](https://www.youtube.com/watch?v=ngc9gnGgUdA)
-
 ## Node
 #### Documentation
 * [Node](https://nodejs.org/en/docs/)
 
-### Frameworks
+#### Frameworks
 * [Express](https://expressjs.com/)
 * [NestJS](https://nestjs.com/)
 * [Others](http://nodeframework.com/)
+
+#### Databases
+* [MongoDB](https://www.mongodb.com/)
+* [mySQL](https://www.mysql.com/)
+* [PostgreSQL](https://www.postgresql.org/)
 
 ## Development
 * [Netlify](https://www.netlify.com/)
