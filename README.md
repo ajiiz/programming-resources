@@ -34,6 +34,11 @@
 * [10 Javascript projects in 1 hour](https://www.youtube.com/watch?v=8GPPJpiLqHk&ab_channel=FlorinPop)
 * [10 Javascript projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop)
 
+## CSS
+#### Documentation
+* [CSSMDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [DevDocs](https://devdocs.io/css/)
+
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
