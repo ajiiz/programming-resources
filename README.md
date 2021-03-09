@@ -39,6 +39,11 @@
 * [CSSMDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [DevDocs](https://devdocs.io/css/)
 
+#### Frameworks/Preprocessors
+* [SCSS/SASS](https://sass-lang.com/documentation)
+* [TailwindCSS](https://tailwindcss.com/)
+* [LessCSS](http://lesscss.org/features/)
+
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
