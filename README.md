@@ -30,6 +30,10 @@
 #### Documentation
 * [JavascriptMDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
+#### Project Tutorials
+* [10 Javascript projects in 1 hour](https://www.youtube.com/watch?v=8GPPJpiLqHk&ab_channel=FlorinPop)
+* 
+
 ## React
 #### Documentation
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
@@ -50,7 +54,7 @@
 #### Tests
 * [JestJS](https://jestjs.io/docs/en/getting-started.html)
 
-#### Project Ideas and tutorials
+#### Project Tutorials
 * [Tutorial_1](url)
 
 ## Development
