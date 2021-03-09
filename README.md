@@ -44,6 +44,7 @@
 
 #### Others
 * [Grid Generator](https://cssgrid-generator.netlify.app/)
+* [CSSgradient](https://cssgradient.io/)
 
 ## Animation
 * [GSAP 3](https://greensock.com/docs/)
@@ -118,15 +119,25 @@
 * [Heroku](https://www.heroku.com)
 
 ## Design
+
+#### Inspirations
 * [Awwwwards](https://www.awwwards.com/)
 * [Behance](https://www.behance.net/)
 * [Codepen](https://codepen.io/)
 * [Dribble](https://dribbble.com/)
-* [UIStore](https://www.uistore.design/)
+
+#### Technologies
 * [Figma](https://www.figma.com/)
+* [Story Tale](https://storytale.io/)
+* [DrawKit](https://www.drawkit.io/)
 * [HeroPatterns](https://www.heropatterns.com/)
 * [TablerIcons](https://tablericons.com/)
+* [UIStore](https://www.uistore.design/)
 * [NoDesign](https://nodesign.dev/)
+
+#### Images
+* [Unsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
 
 ## Tutorials 
 
@@ -135,7 +146,14 @@
 * [The Net Ninja](https://www.thenetninja.co.uk/)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
+* [FrontendMentor](https://www.frontendmentor.io/)
+* [CodeAcademy](https://www.codecademy.com/)
+* [Scrimba](https://scrimba.com/)
 
 ## Useful-Sites
+* [StackOverflow](https://stackoverflow.com/)
 * [MemDev](https://mem.dev/)
-* 
+* [DevTo](https://dev.to/)
+* [Regex](https://regex101.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?fbclid=IwAR0X9yixiGGDUu-tA2kNK30OSndUDrw7LoZnPQgRigKqe-hFncAm99OyB0E#basic_skills)
