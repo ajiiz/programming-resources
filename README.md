@@ -1,5 +1,4 @@
 # Resources
-
 **List of useful programming resources**
 
 # Status
