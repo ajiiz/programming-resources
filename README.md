@@ -141,6 +141,8 @@
 ## Tutorials 
 
 * [MERN Stack Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
+* [JS - 10 Projects in 1 hours](https://www.youtube.com/watch?v=8GPPJpiLqHk)
+* [JS - 10 Projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
