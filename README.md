@@ -147,6 +147,7 @@
 * [Spring Boot - basic start](https://www.youtube.com/watch?v=9SGDpanrc8U)
 * [Spring Boot - complete user login and registeration](https://www.youtube.com/watch?v=QwQuro7ekvc)
 * [5 ways to customize VSC](https://www.youtube.com/watch?v=yvXHM2NByh4)
+* [Arduino music visualizer dream](https://www.youtube.com/watch?v=lU1GVVU9gLU)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
