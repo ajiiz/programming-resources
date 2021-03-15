@@ -140,6 +140,8 @@
 
 ## Tutorials 
 
+* [MERN Stack Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
+
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 * [The Net Ninja](https://www.thenetninja.co.uk/)
