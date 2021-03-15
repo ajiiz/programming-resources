@@ -143,6 +143,8 @@
 * [MERN Stack Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
 * [JS - 10 Projects in 1 hours](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 * [JS - 10 Projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4)
+* [Spring Boot - basic start](https://www.youtube.com/watch?v=9SGDpanrc8U)
+* [Spring Boot - complete user login and registeration](https://www.youtube.com/watch?v=QwQuro7ekvc)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
