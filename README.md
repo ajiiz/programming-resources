@@ -1,5 +1,5 @@
 # Resources
-**List of useful programming resources**
+**List of useful programming resources ;)**
 
 # Status
 #### Last Update: 9.03.21
