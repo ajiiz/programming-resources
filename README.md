@@ -149,6 +149,7 @@
 * [5 ways to customize VSC](https://www.youtube.com/watch?v=yvXHM2NByh4)
 * [Arduino music visualizer dream](https://www.youtube.com/watch?v=lU1GVVU9gLU)
 * [Javascript MMO RPG](https://www.youtube.com/watch?v=IptkgFOoci0)
+* [Pathing React](https://www.youtube.com/watch?v=WpgZKBtW_t8)
 * [Simple Discord Bot](https://www.youtube.com/watch?v=7rU_KyudGBY)
 * [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 
