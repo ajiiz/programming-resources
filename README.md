@@ -150,6 +150,7 @@
 * [Arduino music visualizer dream](https://www.youtube.com/watch?v=lU1GVVU9gLU)
 * [Javascript MMO RPG](https://www.youtube.com/watch?v=IptkgFOoci0)
 * [Simple Discord Bot](https://www.youtube.com/watch?v=7rU_KyudGBY)
+* [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
