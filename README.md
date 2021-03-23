@@ -148,6 +148,7 @@
 * [Spring Boot - complete user login and registeration](https://www.youtube.com/watch?v=QwQuro7ekvc)
 * [5 ways to customize VSC](https://www.youtube.com/watch?v=yvXHM2NByh4)
 * [Arduino music visualizer dream](https://www.youtube.com/watch?v=lU1GVVU9gLU)
+* [Javascript MMO RPG](https://www.youtube.com/watch?v=IptkgFOoci0)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
