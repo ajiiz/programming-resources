@@ -154,6 +154,7 @@
 * [Simple Discord Bot](https://www.youtube.com/watch?v=7rU_KyudGBY)
 * [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 * [Flutter Plant Design](https://www.youtube.com/watch?v=LN668OAUrK4)
+* [SVG CSS Animations](https://www.youtube.com/watch?v=UTHgr6NLeEw)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
