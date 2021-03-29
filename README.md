@@ -138,6 +138,7 @@
 * [Open Peeps](https://www.openpeeps.com/)
 * [DrawKit](https://www.drawkit.io/)
 * [UIStore](https://www.uistore.design/)
+* [Humaaans](https://humaaans.com/)
 
 ## Tutorials 
 
