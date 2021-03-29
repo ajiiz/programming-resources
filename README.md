@@ -127,18 +127,18 @@
 
 #### Technologies
 * [Figma](https://www.figma.com/)
-* [Story Tale](https://storytale.io/)
-* [HeroPatterns](https://www.heropatterns.com/)
-* [TablerIcons](https://tablericons.com/)
-* [NoDesign](https://nodesign.dev/)
 
-#### Images and Illustrations
+#### Images & Illustrations & Icons
+* [NoDesign](https://nodesign.dev/)
 * [Unsplash](https://unsplash.com/)
 * [Pixabay](https://pixabay.com/)
 * [Open Peeps](https://www.openpeeps.com/)
 * [DrawKit](https://www.drawkit.io/)
 * [UIStore](https://www.uistore.design/)
 * [Humaaans](https://humaaans.com/)
+* [TablerIcons](https://tablericons.com/)
+* [Story Tale](https://storytale.io/)
+* [HeroPatterns](https://www.heropatterns.com/)
 
 ## Tutorials 
 
