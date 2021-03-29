@@ -117,26 +117,27 @@
 * [Netlify](https://www.netlify.com/)
 * [Heroku](https://www.heroku.com)
 
-## Design
-
 #### Inspirations
 * [Awwwwards](https://www.awwwards.com/)
 * [Behance](https://www.behance.net/)
 * [Codepen](https://codepen.io/)
 * [Dribble](https://dribbble.com/)
 
+## Design
+
 #### Technologies
 * [Figma](https://www.figma.com/)
 * [Story Tale](https://storytale.io/)
-* [DrawKit](https://www.drawkit.io/)
 * [HeroPatterns](https://www.heropatterns.com/)
 * [TablerIcons](https://tablericons.com/)
-* [UIStore](https://www.uistore.design/)
 * [NoDesign](https://nodesign.dev/)
 
-#### Images
+#### Images and Illustrations
 * [Unsplash](https://unsplash.com/)
 * [Pixabay](https://pixabay.com/)
+* [Open Peeps](https://www.openpeeps.com/)
+* [DrawKit](https://www.drawkit.io/)
+* [UIStore](https://www.uistore.design/)
 
 ## Tutorials 
 
