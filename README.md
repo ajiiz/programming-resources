@@ -2,7 +2,7 @@
 **List of useful programming resources ;)**
 
 # Status
-#### Last Update: 9.03.21
+#### Last Update: 30.03.21
 
 # Table of contents
 - [Road Maps](#RoadMap)
@@ -157,6 +157,7 @@
 * [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 * [Flutter Plant Design](https://www.youtube.com/watch?v=LN668OAUrK4)
 * [SVG CSS Animations](https://www.youtube.com/watch?v=UTHgr6NLeEw)
+* [Full NodeJS & Express](https://www.youtube.com/watch?v=dWjmEAVGcng)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
