@@ -2,7 +2,7 @@
 **List of useful programming resources ;)**
 
 # Status
-#### Last Update: 30.03.21
+#### Last Update: 02.04.21
 
 # Table of contents
 - [Road Maps](#RoadMap)
@@ -143,6 +143,7 @@
 ## Tutorials 
 
 * [MERN Stack Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
+* [Full NodeJS & Express](https://www.youtube.com/watch?v=Oe421EPjeBE)
 * [NodeJS - tutorial for beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [JS - 10 Projects in 1 hours](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 * [JS - 10 Projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4)
@@ -157,7 +158,6 @@
 * [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 * [Flutter Plant Design](https://www.youtube.com/watch?v=LN668OAUrK4)
 * [SVG CSS Animations](https://www.youtube.com/watch?v=UTHgr6NLeEw)
-* [Full NodeJS & Express](https://www.youtube.com/watch?v=dWjmEAVGcng)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
