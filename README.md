@@ -2,7 +2,7 @@
 **List of useful programming resources ;)**
 
 # Status
-#### Last Update: 02.04.21
+#### Last Update: 26.04.21
 
 # Table of contents
 - [Road Maps](#RoadMap)
