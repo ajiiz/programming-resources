@@ -158,6 +158,8 @@
 * [Donuts in C](https://www.youtube.com/watch?v=SHhoFsgaWjA)
 * [Flutter Plant Design](https://www.youtube.com/watch?v=LN668OAUrK4)
 * [SVG CSS Animations](https://www.youtube.com/watch?v=UTHgr6NLeEw)
+* [Figma Portolio Designing](https://www.youtube.com/watch?v=emSv9TTHZVY)
+* [AI Project List](https://github.com/wdd246/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 ## Courses
 * [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
@@ -176,3 +178,4 @@
 * [Regex](https://regex101.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?fbclid=IwAR0X9yixiGGDUu-tA2kNK30OSndUDrw7LoZnPQgRigKqe-hFncAm99OyB0E#basic_skills)
+* [NSFW polish git](https://github.com/jakubnabrdalik/gitkurwa/blob/master/configNSFW_PL)
