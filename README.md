@@ -2,7 +2,7 @@
 **List of useful programming resources ;)**
 
 # Status
-#### Last Update: 26.04.21
+#### Last Update: 04.05.21
 
 # Table of contents
 - [Road Maps](#RoadMap)
@@ -111,7 +111,8 @@
 * [Git](https://git-scm.com/doc)
 * [Github](https://docs.github.com/en)
 * [Make a README](https://www.makeareadme.com/)
-* [GitK**wa](https://github.com/jakubnabrdalik/gitkurwa/blob/master/configNSFW_PL)
+* [How to name branches](https://stackoverflow.com/questions/273695/what-are-some-examples-of-commonly-used-practices-for-naming-git-branches)
+* [NSFW polish git](https://github.com/jakubnabrdalik/gitkurwa/blob/master/configNSFW_PL)
 
 ## Development
 * [Netlify](https://www.netlify.com/)
@@ -178,4 +179,3 @@
 * [Regex](https://regex101.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?fbclid=IwAR0X9yixiGGDUu-tA2kNK30OSndUDrw7LoZnPQgRigKqe-hFncAm99OyB0E#basic_skills)
-* [NSFW polish git](https://github.com/jakubnabrdalik/gitkurwa/blob/master/configNSFW_PL)
